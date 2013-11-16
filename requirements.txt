@@ -1,1 +1,3 @@
 python-twitter
+Flask==0.10
+Twitter==1.10.0
