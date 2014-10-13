@@ -6,10 +6,10 @@ import json
 
 app = Flask(__name__)  #create our flask app 
 
-CONSUMER_KEY = "ZOWPlakwCO2Xa8rgEvornw"
-CONSUMER_SECRET = "aNoDIKBmNkLqeXh5lJYcazhNRMgj7Mc1EJBZyOcCQA8"
-OAUTH_TOKEN = "22389244-C4xVthVea0N3uMnJ5JdomjJcPJQwZ7ILQIBxJufhR"
-OAUTH_SECRET = "GGvKIjvEaQJeOrgdSEvswVSt21d0ttcOmxuPTucqU3SgM"
+CONSUMER_KEY = "----"
+CONSUMER_SECRET = "----"
+OAUTH_TOKEN = "----"
+OAUTH_SECRET = "---"
 
 #configure Twitter API
 twitter = Twitter(auth= OAuth (OAUTH_TOKEN, OAUTH_SECRET,
